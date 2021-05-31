@@ -6,14 +6,14 @@
       "description": "Some additional details about the blog",
       "author": [],
       "contents": "\nMe, and my blog.\nHi, my name is Michel Nivard, the chances you’ll find this if you don’t know me are slim but here goes: I am an assistant professor of biological psychology in Amsterdam, I am thought in psych methods and behavior genetics, my main interests are statistical genetics, psychiatric epidemiology, cognitive development and how all of these influence or are influenced by a school system.\nThe reason for this blog is obviously that deep down I want to be heard, why I have this need I should prob discuss with my psychologist but I do! I can be opinionated, and have opinions about findings just outside my own field. This can dangerous, because when you feel you have the expertise to speak, but don’t really, that’s when you are at risk of exerting a negative influence on the world, you’ll sound convincing because you know things, you might be wrong because you don’t know all the things! Ill try to not let that happen here. What I do what to do here is discuss papers, or series of papers by others I think are worthwhile or important. My goal is to highlight convincing science but also to point out limitations and opportunities for follow up.\n\n\n\n",
-      "last_modified": "2021-05-31T14:00:40+02:00"
+      "last_modified": "2021-05-31T14:03:58+02:00"
     },
     {
       "path": "index.html",
       "title": "Michel.Science",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2021-05-31T14:00:40+02:00"
+      "last_modified": "2021-05-31T14:03:58+02:00"
     }
   ],
   "collections": ["posts/posts.json"]
