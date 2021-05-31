@@ -2042,8 +2042,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <script src="site_libs/webcomponents-2.0.0/webcomponents.js"></script>
   <script src="site_libs/distill-2.2.21/template.v2.js"></script>
   <!--radix_placeholder_site_in_header-->
-  <script type="text/javascript" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-JNT1XQQJ04"></script>
-  <script type="text/javascript" cookie-consent="tracking">
+  <script type="text/javascript" src="https://www.cookieconsent.com/releases/3.1.0/cookie-consent.js"></script>
+  <script type="text/javascript">
+  document.addEventListener('DOMContentLoaded', function () {
+  cookieconsent.run({
+  'notice_banner_type':'simple',
+  'consent_type': 'express',
+  'palette': 'light',
+  'language': 'en',
+  'website_name': 'michel.science',
+  'cookies_policy_url': 'url',
+  'change_preferences_selector':'#CookiePreferences'
+  });});</script>
+  <script type="text/plain" cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-JNT1XQQJ04"></script>
+  <script type="text/plain" cookie-consent="tracking">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
@@ -2090,8 +2102,13 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<h3 id="me-and-my-blog.">Me, and my blog.</h3>
+<h3 id="about-me-and-my-blog.">About me, and my blog.</h3>
+<div class="float-image">
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="figs/self.jpg" width="30%" style="float:right; padding:10px" /></p>
+</div>
 <p>Hi, my name is <strong>Michel Nivard</strong>, the chances you’ll find this if you don’t know me are slim but here goes: I am an assistant professor of biological psychology in Amsterdam, I am thought in psych methods and behavior genetics, my main interests are statistical genetics, psychiatric epidemiology, cognitive development and how all of these influence or are influenced by a school system.</p>
+</div>
 <p>The reason for this blog is obviously that deep down I want to be heard, why I have this need I should prob discuss with my psychologist but I do! I can be opinionated, and have opinions about findings just outside my own field. This can dangerous, because when you feel you have the expertise to speak, but don’t really, that’s when you are at risk of exerting a negative influence on the world, you’ll sound convincing because you know things, you might be wrong because you don’t know all the things! Ill try to not let that happen here. What I do what to do here is discuss papers, or series of papers by others I think are worthwhile or important. My goal is to highlight convincing science but also to point out limitations and opportunities for follow up.</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
