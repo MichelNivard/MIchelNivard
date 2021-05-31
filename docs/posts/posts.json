@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Michel.Science",
+    "description": "Welcome to my blog, Michel.Science. Where I ramble about behaviour genetics, (social) science and psychiatric epidemiology!",
+    "author": [
+      {
+        "name": "Michel Nivard",
+        "url": "https://scholar.google.nl/citations?user=omRGPjUAAAAJ&hl=en"
+      }
+    ],
+    "date": "2021-05-31",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-05-31T10:40:55+02:00",
+    "input_file": {}
+  }
+]
